@@ -4,7 +4,7 @@
 
 By creating a `kiosk learning platform` that can be easily learned, I started the project to reduce the digital underprivileged's rejection of kiosks and the digital gap.
 
-<h3> 🛠 Stacks  
+### 🛠 Stacks 
   
   
 - HTML, CSS, JS
@@ -13,5 +13,5 @@ By creating a `kiosk learning platform` that can be easily learned, I started th
       
       
 
-<h3> 🔗 Page Link
+### 🔗 Page Link  
 https://syiee.github.io/KIOSK/
